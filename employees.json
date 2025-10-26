@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1759162046842,
+    "attendance": "Present",
+    "name": "bob",
+    "email": "bob@gmail.com",
+    "password": "bob",
+    "salary": "35000",
+    "role": "employee"
+  },
+  {
+    "id": 1759162643374,
+    "attendance": "Absent",
+    "name": "john",
+    "email": "john@gmail.com",
+    "password": "john",
+    "salary": 40000,
+    "role": "employee"
+  },
+  {
+    "id": 1759163756221,
+    "name": "alice",
+    "email": "alice@gmail.com",
+    "password": "alice",
+    "salary": 50000,
+    "role": "employee"
+  }
+]
